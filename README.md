@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sevpace&bg_color=000&border_color=75369&title_color=75369c&text_color=FFF&hide_title=true)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sevpace&repo=dio-lab-open-source&bg_color=000&border_color=75369c&show_icons=true&icon_color=75369c&title_color=75369c&text_color=FFF)](https://github.com/yuriaugustobs/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sevpace&repo=dio-lab-open-source&bg_color=000&border_color=75369c&show_icons=true&icon_color=75369c&title_color=75369c&text_color=FFF)](https://github.com/sevpace/dio-lab-open-source)
 
 ### I’m Learning:
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
