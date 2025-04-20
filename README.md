@@ -1,5 +1,7 @@
 # Hi! My name is Sev! 🫡 👋
 
+I’m an aspiring web developer with a background in graphic design and advertising. I love combining creativity and technical skills to build amazing user experiences. Let’s connect and create something awesome together!
+
 <!--
 **SevPace/SevPace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
